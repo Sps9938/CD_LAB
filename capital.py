@@ -1,6 +1,3 @@
-# find_capitals.py
-# Usage: python find_capitals.py input.txt
-# Or: python find_capitals.py   (then paste input and Ctrl-D/Ctrl-Z to end)
 import sys
 
 def read_input(path=None):

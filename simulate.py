@@ -1,7 +1,3 @@
-# operator_validator.py
-# Usage: python operator_validator.py input.c
-# Output files: operators_found.txt (one per line), invalid_operators.txt (if any)
-
 import sys
 import re
 import os

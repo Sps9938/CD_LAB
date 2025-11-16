@@ -1,7 +1,3 @@
-# normalize_whitespace.py
-# Usage: python normalize_whitespace.py input.txt output.txt
-# It collapses sequences of whitespace (space, tab, newline) into a single space.
-
 import sys
 import re
 

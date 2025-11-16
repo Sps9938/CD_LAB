@@ -1,5 +1,3 @@
-# recognize_patterns.py
-
 def is_a_star(s):
     return all(ch == 'a' for ch in s)
 
